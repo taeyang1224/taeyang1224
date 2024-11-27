@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=TAEYANG&fontSize=90" alt="header"/>
 </p>
 
-<h3 align="center"> Junior Data Analyst </h> 
+<!--<h3 align="center"> Junior Data Analyst </h>-->
 
 <h3 align="center"> Tech Stack </h3> 
 
